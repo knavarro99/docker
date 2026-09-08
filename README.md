@@ -1,3 +1,6 @@
+integrantes Kevin Jose Navarro Mendoza
+David Cardozo 
+
 # Taller I - Infraestructura con Docker Compose
 
 Proyecto de ejemplo con 3 servicios en la misma red de Docker: **frontend**, **backend** y **base de datos**, mas un **proxy** de balanceo para el frontend (necesario porque el frontend corre con 3 replicas y solo puede haber un punto de entrada fijo en `localhost:9091`).
